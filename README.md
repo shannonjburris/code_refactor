@@ -1,5 +1,5 @@
 # Code_Refactor
-In this project I refactored code in order to follow accessibility standards. I added the following tags, main, section, article, nav, header and footer. I also combined several of the CSS classes.
+In this project I refactored code in order to follow accessibility standards. I updated div tags with symantic elements. I added the following elements: main, section, article, nav, header, footer and added alt text to images. I also combined several of the CSS classes.
 
 Link to application: https://shannonjburris.github.io/code_refactor/
 
